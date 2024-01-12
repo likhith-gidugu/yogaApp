@@ -1,0 +1,342 @@
+
+#navigation{
+  justify-content: end;
+  
+  background-color: #dcf5ed;
+  color:#494f4e;
+  text-align: center;
+  margin-right: -12px;
+}
+.navigation-bg{
+
+  background-color: #f2f9f4;
+
+}
+
+.logo-bg{
+background-color:#90c8d6;
+margin-right: 0px;
+
+
+}
+/*firstpagecss starts*/
+  
+
+@font-face{
+font-family:BalooBhai;
+src:url('fonts/BalooBhai-Regular.ttf')
+}
+@font-face{
+font-family:Montserrat;
+src:url('fonts/Montserrat-Bold.otf')
+}
+.part-1{
+
+  background-color: #f2f9f4;
+  padding-bottom:100px
+}
+
+.gl-yg{
+font-family:BalooBhai ;
+font-size: 80px;
+margin-bottom: 20px;
+
+}
+.lg-rhtxt{
+text-align: center;
+
+color:rgba(7, 131, 125, 0.589);
+
+
+}
+.gl-btun{
+padding:0px 30px 0px 30px;
+color:#f4f9f4;
+background-color: rgba(7, 131, 125, 0.589);
+border-radius: 15px;
+
+
+}
+.floaraframeBorder{
+
+display: flex;
+justify-content: right;
+display: inline-block;
+
+
+}
+/* first page css ends*/
+
+
+/* second page css starts*/
+.gl-secondpage{
+
+
+ 
+
+    background-color: rgba(7, 131, 125, 0.589);
+    color:#f4f9f4;
+   
+
+
+}
+
+
+
+.gl-chooseclass{
+  font-family: BalooBhai;
+
+  margin-top: 65px;
+}
+
+.gl-secondpagepg{
+text-align: center;
+
+}
+.gl-heaadingtag{
+  font-family: BalooBhai;
+text-align: center;
+font-size: 2rem;
+
+}
+.gl-ptag{
+text-align:center;
+
+}
+.gl-threepics{
+margin-bottom:80px;
+
+}
+
+/*second page css endss*/
+
+
+/* third page css starts*/
+.thirdpg-bg{
+background-image:url('images/3550620_23.png');
+background-repeat: no-repeat;
+background-size: cover;
+
+
+color:rgba(7, 131, 125, 0.589)
+
+}
+.gl-ourstats{
+
+font-family:BalooBhai ;
+text-align: center;
+
+padding-top: 8rem;
+font-size: 4rem;
+
+}
+.thirdPagep-tag{
+text-align: center;
+
+
+}
+.num-123{
+ font-family:BalooBhai;
+text-align: center;
+font-size:4rem;
+
+}
+.thirdpagetxt{
+text-align: center;
+
+
+}
+
+.threecircles{
+
+  height: 13rem;
+    width: 16rem;
+    border-radius: 50%;
+    object-fit: cover;
+    
+    border: .4rem solid rgba(7, 131, 125, 0.589);
+    
+
+}
+
+.threecirclespace{
+
+  justify-content: space-around;
+}
+
+
+
+
+
+/* third page css endss*/
+
+/*fourth page css starts*/
+
+
+.four{
+
+
+  color: #dcf5ed ;
+  background-color: rgba(7, 131, 125, 0.589)
+}
+
+
+
+
+.bestinstructor-lg{
+  
+
+font-style: normal;
+
+
+}
+.posterfour{
+position: relative;
+left:0px;
+right:0px;
+
+
+}
+.gl-readMore{
+
+background-color:white;
+color:rgba(7, 131, 125, 0.589);
+padding:0px 40px 0px 40px;
+border-radius: 5px; 
+border-color: #f2f9f4;
+font-weight: bolder;
+
+}
+
+
+
+/*fourth page css ends*/
+
+
+/*fifth page css starts*/
+.gl-fifthpagetxt{
+background-image: url('images/bottom_right_flora_frame.png');
+
+}
+
+.fifthpagerstxt{
+
+text-align: center;
+
+
+
+}
+.fifthpagbutn{
+
+background-color:rgba(7, 131, 125, 0.589);
+color:#f4f9f4;
+border-radius:5px;
+padding:5px 40px 5px 40px ;
+border-color: rgba(7, 131, 125, 0.589); 
+
+}
+/*fifth page css ends*/
+
+
+/*sixth page css starts*/
+.sixth{
+  color:#f4f9f4;
+background-color:rgba(7, 131, 125, 0.589)
+
+}
+.sixthptag{
+text-align: center;
+
+
+}
+.nameclassanddolor{
+font-family: BalooBhai;
+
+
+}
+.onlyclass{
+padding-top: 5%;
+
+}
+.registerbtun{
+
+  background-color: rgba(7, 131, 125, 0.589);
+  color: #f2f9f4;
+  padding:0px 30px 0px 30px;
+  border-color: rgba(7, 131, 125, 0.589);
+}
+
+
+
+
+
+/*sixth page css ends*/
+
+/*seventh page css starts*/
+.seventhpagepicandtxt{
+text-align: center;
+background-color: #f2f9f4;
+color: rgba(7, 131, 125, 0.589);
+
+}
+.posture-6{
+
+margin-top: 50px;
+
+}
+
+
+
+/*seventh page css ends*/
+
+/*eight page css starts*/
+
+
+.eightpage{
+background-color: rgba(7, 131, 125, 0.589);
+color:#f2f9f4;
+text-align: center;
+
+
+}
+
+
+.subscribebutn{
+color: rgba(7, 131, 125, 0.589);
+background-color: #f2f9f4;
+border-radius: 15px;
+position: relative;
+left:-34px;
+border-color: #f2f9f4;
+PADDING: 4px 20px 7px 20px;
+
+}
+
+/*eight page css ends*/
+
+
+/*ninth page css starts*/
+.footer{
+
+color:rgba(7, 131, 125, 0.589);
+
+margin-top:10%;
+margin-bottom:5%;
+padding-left: 3%;
+padding-right: 3%;
+
+}
+
+
+
+
+
+/*ninth page css endss*/
+
+
+ul{
+
+  list-style: none;
+}
+
+

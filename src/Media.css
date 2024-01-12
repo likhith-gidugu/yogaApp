@@ -1,0 +1,445 @@
+
+/*firstPage media query starts*/
+
+
+
+@media screen and (min-width:768px){
+.nav-link:hover{
+background-color: #c7d9d5;
+
+
+}
+
+
+}
+@media screen and  (min-width:995px){
+
+    .gl-nav {
+        gap: 120px;
+        font-weight: bolder;
+    }
+
+
+
+}
+@media screen and  (min-width:768px){
+
+
+    .lg-rhtxt{
+        margin-top: 30px;
+    }
+
+}
+@media screen and (min-width:992px){
+
+    .lg-rhtxt{
+        margin-top: 150px;
+    }
+
+
+}
+@media screen and (max-width:768px){
+
+    .lg-rhtxt{
+margin-top: 30px;
+
+    }
+
+
+
+}
+/*firstPage media query ends*/
+
+
+
+/*secondPage media query starts*/
+
+
+
+@media screen and (max-width:768px){
+   
+   
+    .gl-flora-borderpic {
+        /* display: none; */
+        position: relative;
+        top: -205px;
+        right: 0%;
+        left: 0%;
+    }
+
+}
+@media screen and (min-width:769px){
+    .gl-flora-borderpic{
+
+        display: flex;
+        justify-content: end;
+        position: relative;
+        top: -81px;
+        right: -12px;
+      }
+}
+
+
+
+
+@media screen and (max-width:768px){
+   
+    .gl-chooseclass{
+
+ text-align: center;
+ position: relative;
+ top:35px;
+
+    }
+    
+    }
+
+
+    
+@media screen and (min-width:768px){
+   
+    .gl-chooseclass{
+
+  text-align:right;
+  position: relative;
+  right: 6%
+
+    }
+    
+    }
+    
+    @media screen and (min-width:769px){
+   
+        .second-pagemiddletxt{
+            margin:-47px 0px 0px 0px ;
+            
+            }
+        
+        }
+        @media screen and (max-width:768px){
+   
+            .second-pagemiddletxt{
+                margin:-163px 0px 0px 0px ;
+                
+                }
+            
+            }
+
+            @media screen and (max-width:768px){
+
+              .threecircles
+            { margin-top:2rem;
+                
+                margin-bottom:2rem;
+               }
+            }
+
+            @media screen and (min-width:768px){
+                .threecircles{margin-top:12rem;
+                
+                  margin-bottom:8rem;
+                 }
+              }
+        
+
+/*  fourth page media query  starts*/
+
+
+@media screen and (min-width:768px){
+
+
+    .bestinstructor-lg{
+        margin-top: 14rem;
+      
+      padding-left: 92px;
+      
+      
+      }
+
+}
+@media screen and (max-width:768px){
+
+.bestinstructor-lg{
+
+  margin-top: 2rem;;
+  font-family: BalooBhai;
+  text-align: center;
+  
+  
+  }
+}
+ @media screen and (max-width:768px)
+{
+
+
+    .poster4pic{
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+  
+    }
+    
+
+
+}
+/*fourth page media query ends*/
+
+
+/*fifth page media query ends*/
+@media screen  and (min-width:769px){
+.gl-posture5{
+margin-top:5rem ;
+margin-bottom: 2rem;
+
+
+}
+}
+@media screen and (max-width:768px){
+    .gl-posture5{
+        margin-top:20px ;
+        
+        
+        }
+
+}
+
+@media (min-width:769px){
+
+    .fifthpagerstxt{
+
+        
+        color: rgba(7, 131, 125, 0.589);
+        margin-top:300px;
+        margin-bottom: 2rem;
+        
+    }
+
+}
+@media (max-width:768px){
+
+    .fifthpagerstxt{
+
+        
+        color: rgba(7, 131, 125, 0.589);
+        margin-top:20px;
+        margin-bottom:2rem;
+        
+    }
+
+}
+
+
+
+/*fifth page media query ends*/
+
+
+/*sixth page media query starts*/
+@media screen and (max-width:768px){
+.sixth-Pricing{
+text-align: center;
+font-family: BalooBhai;
+margin-top: 2rem;
+font-size: 3rem;
+
+};
+}
+
+@media screen and (min-width:769px){
+    .sixth-Pricing{
+    text-align: center;
+    font-family: BalooBhai;
+    margin-top: 7rem;
+    font-size: 5rem;
+    margin-bottom:3rem;
+    
+    };
+    }
+
+
+    @media screen and (min-width:768px){
+      
+        
+        .threemedals{
+
+            background-color: #f2f9f4;
+            color: rgba(7, 131, 125, 0.589);
+          border-radius: 10px;
+          text-align: center;
+          width:100%;
+          height:350px;
+          margin-bottom: 5rem; padding-bottom: 1rem;
+          
+          
+          
+          
+          }
+        }
+    
+      
+        @media screen and (max-width:768px){
+      
+        
+            .threemedals{
+    
+                background-color: #f2f9f4;
+                color: rgba(7, 131, 125, 0.589);
+              border-radius: 10px;
+              text-align: center;
+              width:50%;
+              height:325px; 
+              margin-left: 25%;
+              margin-bottom:18px ;
+              
+              
+              
+              
+              }
+            }
+/*sixth page media query ends*/
+
+
+/*sevevth page media query starts*/
+@media screen and (max-width:768px){
+.gl-trainer{
+font-family: BalooBhai;
+font-size: 3rem;
+font-weight: bold;
+margin-bottom: 30px;
+
+}
+
+}
+@media screen and (min-width:769px){
+    .gl-trainer{
+    font-family: BalooBhai;
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 150px;
+    
+    }
+}
+
+
+@media screen and (max-width:768px){
+
+.seventhpageptag{
+
+    font-size: rem;;
+  }
+}
+
+@media screen and (min-width:768px){
+
+    .seventhpageptag{
+
+        font-size: 3rem;;
+      }
+
+
+}
+/*seventh page media query ends*/
+
+
+
+
+/*eight page media query starts*/
+@media screen and (min-width:768px){
+.dmou{
+margin-top: 100px;
+margin-bottom: 30px;
+font-family: BalooBhai;
+font-size: 2rem;
+}
+}
+
+@media screen and (max-width:767px){
+    .dmou{
+    margin-top: 100px;
+    font-family: BalooBhai;
+    margin-bottom: 30px;
+    font-size: 2rem;
+    }
+    }
+
+
+
+
+    @media screen and (min-width:768px){
+
+
+        .input-placeholder{
+
+            background-color:#f2f9f4;
+            padding:5px 150px 5px 17px;
+            border-color: #f2f9f4;
+            margin-bottom: 100px;
+            border-radius: 15px;
+            
+            }
+
+    }
+
+    @media screen and (max-width:767px){
+
+        .input-placeholder{
+
+            background-color:#f2f9f4;
+            padding: 6px 100px 6px 17px;
+            border-color: #f2f9f4;
+            margin-bottom: 100px;
+            border-radius: 15px;
+            
+            }
+
+    }
+
+    /*eight page media query endss*/
+    /*footer page media queries start*/
+
+
+
+
+@media screen and (max-width:768px) {
+
+    .midlitag{
+        text-align: center;
+        
+        padding:0px;
+        
+      
+      }
+    
+}
+@media screen and (min-width:768px){
+
+
+    .midlitag{
+     margin:0%;
+     padding:0%
+             
+        
+      
+      }
+    
+
+    
+}
+
+
+    @media screen and (max-width:768px){
+    .endinglist{
+padding-left: 40%;
+
+    }
+
+}
+@media screen and (min-width:768px){
+    
+    .endinglist{
+padding: 0px;
+
+    }
+}
+
+
+
